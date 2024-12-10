@@ -132,6 +132,7 @@ namespace Foodie.User
                         try
                         {
                             con.Open();
+                            cmd.Parameters.AddWithValue("@Role", userId == 0 ? 0 : GetCurrentRole(userId));
                             cmd.ExecuteNonQuery();
 
                             if (userId == 0)
@@ -178,6 +179,31 @@ namespace Foodie.User
                 }
             }
         }
+
+        private int GetCurrentRole(int userId)
+        {
+            int role = 0; // Default to User (0)
+            using (SqlConnection con = new SqlConnection(Connection.GetConnectionString()))
+            {
+                using (SqlCommand cmd = new SqlCommand("User_Crud", con))
+                {
+                    cmd.CommandType = CommandType.StoredProcedure;
+                    cmd.Parameters.AddWithValue("@Action", "SELECT4PROFILE");
+                    cmd.Parameters.AddWithValue("@UserId", userId);
+
+                    con.Open();
+                    using (SqlDataReader reader = cmd.ExecuteReader())
+                    {
+                        if (reader.Read())
+                        {
+                            role = Convert.ToInt32(reader["Role"]);
+                        }
+                    }
+                }
+            }
+            return role;
+        }
+
 
     }
 }

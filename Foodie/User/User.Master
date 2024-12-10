@@ -173,7 +173,7 @@
     <form id="form1" runat="server">
         <div class="hero_area">
     <div class="bg-box">
-      <img src="../TemplateFiles/images/hero-bg.jpg" alt="">
+      <img src="../TemplateFiles/images/Pizza.jpg" alt="">
     </div>
     <!-- header section strats -->
     <header class="header_section">
