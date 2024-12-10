@@ -64,8 +64,8 @@ namespace Foodie.User
                     ? "../Images/No_image.png" : "../"+dt.Rows[0]["ImageUrl"].ToString();
                 imgUser.Height = 200;
                 imgUser.Width = 200;
-                txtPassword.TextMode = TextBoxMode.SingleLine;
-                txtPassword.ReadOnly = true;
+                txtPassword.TextMode = TextBoxMode.Password;
+                txtPassword.ReadOnly = false;
                 txtPassword.Text = dt.Rows[0]["Password"].ToString();
                 lblHeaderMsg.Text = "<h2>Edit Profile</h2>";
                 btnRegister.Text = "Update";
