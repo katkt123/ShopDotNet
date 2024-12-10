@@ -1,0 +1,12 @@
+Các Bước để tạo Crud
+1. Chọn FoodieDB
+2. Chọn Programmability
+3. Chọn Stored Procedures -> Chuột phải -> New -> Stored Procedures 
+4. Nhập các đoạn code đây vào 
+5. rồi Execute
+
+
+
+Bước ngoài lệ khi làm xog hết thì kêu t
+1. Xóa từ đầu hết chữ "GO" thứ 3 
+2. Sửa chứ ALTER thành CREATE 

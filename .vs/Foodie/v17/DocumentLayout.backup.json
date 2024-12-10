@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C26D4C-60C9-4083-8D93-F6A0C62AD1B1}|Foodie\\Foodie.csproj|c:\\sgu\\nam4_hk1\\csharp\\shopdotnet\\foodie\\admin\\product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C1C26D4C-60C9-4083-8D93-F6A0C62AD1B1}|Foodie\\Foodie.csproj|solutionrelative:foodie\\admin\\product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C26D4C-60C9-4083-8D93-F6A0C62AD1B1}|Foodie\\Foodie.csproj|C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\Admin\\Contacts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C1C26D4C-60C9-4083-8D93-F6A0C62AD1B1}|Foodie\\Foodie.csproj|solutionrelative:Foodie\\Admin\\Contacts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C26D4C-60C9-4083-8D93-F6A0C62AD1B1}|Foodie\\Foodie.csproj|C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\Admin\\OrderStatus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C1C26D4C-60C9-4083-8D93-F6A0C62AD1B1}|Foodie\\Foodie.csproj|solutionrelative:Foodie\\Admin\\OrderStatus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C26D4C-60C9-4083-8D93-F6A0C62AD1B1}|Foodie\\Foodie.csproj|C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\Admin\\Report.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C1C26D4C-60C9-4083-8D93-F6A0C62AD1B1}|Foodie\\Foodie.csproj|solutionrelative:Foodie\\Admin\\Report.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C26D4C-60C9-4083-8D93-F6A0C62AD1B1}|Foodie\\Foodie.csproj|C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\Admin\\Dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C1C26D4C-60C9-4083-8D93-F6A0C62AD1B1}|Foodie\\Foodie.csproj|solutionrelative:Foodie\\Admin\\Dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C26D4C-60C9-4083-8D93-F6A0C62AD1B1}|Foodie\\Foodie.csproj|C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\Admin\\Users.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C26D4C-60C9-4083-8D93-F6A0C62AD1B1}|Foodie\\Foodie.csproj|solutionrelative:Foodie\\Admin\\Users.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C26D4C-60C9-4083-8D93-F6A0C62AD1B1}|Foodie\\Foodie.csproj|C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\Admin\\Category.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C26D4C-60C9-4083-8D93-F6A0C62AD1B1}|Foodie\\Foodie.csproj|solutionrelative:Foodie\\Admin\\Category.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C26D4C-60C9-4083-8D93-F6A0C62AD1B1}|Foodie\\Foodie.csproj|C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\Admin\\Users.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C1C26D4C-60C9-4083-8D93-F6A0C62AD1B1}|Foodie\\Foodie.csproj|solutionrelative:Foodie\\Admin\\Users.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C26D4C-60C9-4083-8D93-F6A0C62AD1B1}|Foodie\\Foodie.csproj|C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\Admin\\Category.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C1C26D4C-60C9-4083-8D93-F6A0C62AD1B1}|Foodie\\Foodie.csproj|solutionrelative:Foodie\\Admin\\Category.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C26D4C-60C9-4083-8D93-F6A0C62AD1B1}|Foodie\\Foodie.csproj|C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\User\\Registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C1C26D4C-60C9-4083-8D93-F6A0C62AD1B1}|Foodie\\Foodie.csproj|solutionrelative:Foodie\\User\\Registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C26D4C-60C9-4083-8D93-F6A0C62AD1B1}|Foodie\\Foodie.csproj|C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\User\\Login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C26D4C-60C9-4083-8D93-F6A0C62AD1B1}|Foodie\\Foodie.csproj|solutionrelative:Foodie\\User\\Login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C26D4C-60C9-4083-8D93-F6A0C62AD1B1}|Foodie\\Foodie.csproj|C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\User\\Login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C1C26D4C-60C9-4083-8D93-F6A0C62AD1B1}|Foodie\\Foodie.csproj|solutionrelative:Foodie\\User\\Login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.aspx",
+              "DocumentMoniker": "C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\Admin\\Product.aspx",
+              "RelativeDocumentMoniker": "Foodie\\Admin\\Product.aspx",
+              "ToolTip": "C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\Admin\\Product.aspx",
+              "RelativeToolTip": "Foodie\\Admin\\Product.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-08T08:02:32.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contacts.aspx",
+              "DocumentMoniker": "C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\Admin\\Contacts.aspx",
+              "RelativeDocumentMoniker": "Foodie\\Admin\\Contacts.aspx",
+              "ToolTip": "C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\Admin\\Contacts.aspx",
+              "RelativeToolTip": "Foodie\\Admin\\Contacts.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-08T08:14:58.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderStatus.aspx",
+              "DocumentMoniker": "C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\Admin\\OrderStatus.aspx",
+              "RelativeDocumentMoniker": "Foodie\\Admin\\OrderStatus.aspx",
+              "ToolTip": "C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\Admin\\OrderStatus.aspx",
+              "RelativeToolTip": "Foodie\\Admin\\OrderStatus.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-08T08:14:26.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Report.aspx",
+              "DocumentMoniker": "C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\Admin\\Report.aspx",
+              "RelativeDocumentMoniker": "Foodie\\Admin\\Report.aspx",
+              "ToolTip": "C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\Admin\\Report.aspx",
+              "RelativeToolTip": "Foodie\\Admin\\Report.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-08T08:13:27.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\Admin\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "Foodie\\Admin\\Dashboard.aspx",
+              "ToolTip": "C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\Admin\\Dashboard.aspx",
+              "RelativeToolTip": "Foodie\\Admin\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-08T08:12:33.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Users.aspx.cs",
+              "DocumentMoniker": "C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\Admin\\Users.aspx.cs",
+              "RelativeDocumentMoniker": "Foodie\\Admin\\Users.aspx.cs",
+              "ToolTip": "C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\Admin\\Users.aspx.cs",
+              "RelativeToolTip": "Foodie\\Admin\\Users.aspx.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAD0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T07:53:44.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.aspx.cs",
+              "DocumentMoniker": "C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\Admin\\Category.aspx.cs",
+              "RelativeDocumentMoniker": "Foodie\\Admin\\Category.aspx.cs",
+              "ToolTip": "C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\Admin\\Category.aspx.cs",
+              "RelativeToolTip": "Foodie\\Admin\\Category.aspx.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T07:50:12.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Users.aspx",
+              "DocumentMoniker": "C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\Admin\\Users.aspx",
+              "RelativeDocumentMoniker": "Foodie\\Admin\\Users.aspx",
+              "ToolTip": "C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\Admin\\Users.aspx",
+              "RelativeToolTip": "Foodie\\Admin\\Users.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-08T07:45:07.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.aspx",
+              "DocumentMoniker": "C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\Admin\\Category.aspx",
+              "RelativeDocumentMoniker": "Foodie\\Admin\\Category.aspx",
+              "ToolTip": "C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\Admin\\Category.aspx",
+              "RelativeToolTip": "Foodie\\Admin\\Category.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-08T07:44:50.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Registration.aspx",
+              "DocumentMoniker": "C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\User\\Registration.aspx",
+              "RelativeDocumentMoniker": "Foodie\\User\\Registration.aspx",
+              "ToolTip": "C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\User\\Registration.aspx",
+              "RelativeToolTip": "Foodie\\User\\Registration.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-26T08:27:25.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\User\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Foodie\\User\\Login.aspx.cs",
+              "ToolTip": "C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\User\\Login.aspx.cs",
+              "RelativeToolTip": "Foodie\\User\\Login.aspx.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:23:58.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\User\\Login.aspx",
+              "RelativeDocumentMoniker": "Foodie\\User\\Login.aspx",
+              "ToolTip": "C:\\SGU\\Nam4_HK1\\CSharp\\ShopDOTNET\\Foodie\\User\\Login.aspx",
+              "RelativeToolTip": "Foodie\\User\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-26T08:21:34.67Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
